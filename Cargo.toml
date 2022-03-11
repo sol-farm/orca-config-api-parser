@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Tulip Protocol"]
 description = "helper functions for parsing the output of Orca's configuration api"
-keywords = ["solana", "orca.so"]
+keywords = ["solana", "orca"]
 license = "MIT/Apache-2.0"
 [dependencies]
 thiserror = "1.0.25"
