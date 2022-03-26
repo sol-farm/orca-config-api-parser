@@ -1,2 +1,1 @@
-# orca-config-api-parser
-rust crate for parsing Orca's configuration api
+> [decprecated, please use so-defi-config](https://github.com/sol-farm/so-defi/tree/main/config)
